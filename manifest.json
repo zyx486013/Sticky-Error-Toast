@@ -1,0 +1,10 @@
+{
+  "display_name": "Sticky Error Toast",
+  "loading_order": 999,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Local custom extension",
+  "version": "1.0.0",
+  "homePage": "https://github.com/zyx486013/Sticky-Error-Toast"
+}
