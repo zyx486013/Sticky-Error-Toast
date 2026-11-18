@@ -2,7 +2,7 @@
 
 一个轻量级 SillyTavern 扩展，只修改 `toastr.error` 红色错误通知：
 
-- 默认常驻显示（`timeOut = 0`、`extendedTimeOut = 0`），并显示右上角关闭按钮。
+- 默认常驻显示（`timeOut = 0`、`extendedTimeOut = 0`），点击通知正文或右上角 × 即可关闭。
 - 成功、信息、警告通知不受影响。
 - 默认最多同时显示 5 条红色错误；出现新错误时，最早的错误会被移除。
 - 可在 Extensions 设置中关闭扩展、调整显示时长和同时显示数量。
