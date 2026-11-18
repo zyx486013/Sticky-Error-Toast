@@ -90,7 +90,7 @@
                     timeOut: settings.duration,
                     extendedTimeOut: settings.duration,
                     closeButton: true,
-                    tapToDismiss: false,
+                    tapToDismiss: true,
                 },
             );
 
@@ -142,7 +142,7 @@
                                     <i class="fa-solid fa-vial"></i> 测试错误通知
                                 </button>
                             </div>
-                            <small>设置会自动保存。显示时间设为 0 时，通知不会自动消失；可通过右上角 × 关闭。</small>
+                            <small>设置会自动保存。显示时间设为 0 时，通知不会自动消失；点击通知正文或右上角 × 即可关闭。</small>
                         </div>
                     </div>
                 </div>
